@@ -1,0 +1,6 @@
+@mixin strips{
+	height: $total_height;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
